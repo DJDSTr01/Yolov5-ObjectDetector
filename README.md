@@ -56,9 +56,7 @@ These issues are hardware limitations and not bugs in the code. For the best exp
    ```
 
 3. Install dependencies:
-   ```sh
-   Run the installer.bat file
-   ```
+To install the dependencies you can just run the installer.bat file
 
 
 ## Usage

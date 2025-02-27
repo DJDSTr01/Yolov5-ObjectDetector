@@ -1,6 +1,6 @@
 # Screen Object Detector
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/screen-object-detector?style=social)
+![GitHub stars](https://img.shields.io/github/stars/DJDSTr01/screen-Yolov4-ObjectDetector?style=social)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Python](https://img.shields.io/badge/python-3.7%2B-blue)
 
@@ -45,8 +45,8 @@ These issues are hardware limitations and not bugs in the code. For the best exp
 
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/screen-object-detector.git
-cd screen-object-detector
+git clone https://github.com/DJDSTr01/Yolov5-ObjectDetector.git
+cd Yolov5-ObjectDetector
 ```
 
 2. Create a virtual environment (recommended):

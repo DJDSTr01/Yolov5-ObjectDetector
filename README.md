@@ -6,7 +6,7 @@
 
 A high-performance, real-time object detection system that works directly on your screen. This application uses YOLOv5 to detect objects displayed on your screen and creates smooth, professional overlays to track and label them.
 
-![Demo GIF](https://via.placeholder.com/800x450.png?text=Screen+Object+Detector+Demo)
+
 
 ## Features
 

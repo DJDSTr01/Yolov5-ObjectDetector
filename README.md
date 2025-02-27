@@ -43,7 +43,7 @@ These issues are hardware limitations and not bugs in the code. For the best exp
 
 ## Installation
 
-1. Create a virtual environment (recommended):
+1. Set up a virtual environment (recommended):
    ```sh
    python -m venv venv
    venv\Scripts\activate
@@ -56,7 +56,10 @@ These issues are hardware limitations and not bugs in the code. For the best exp
    ```
 
 3. Install dependencies:
-To install the dependencies you can just run the installer.bat file
+   To install all required dependencies, simply run:
+   ```sh
+   installer.bat
+   ```
 
 
 ## Usage

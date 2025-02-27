@@ -66,10 +66,7 @@ These issues are hardware limitations and not bugs in the code. For the best exp
    ```
 
 ### **Alternative Installation Method**  
-Instead of manually installing the dependencies, you can run:  
-   ```sh
-   installer.bat
-   ```  
+Instead of manually installing the dependencies, you can run installer.bat inside of this project directory
 This will handle everything automatically.
 
 

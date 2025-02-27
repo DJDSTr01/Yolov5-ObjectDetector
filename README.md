@@ -44,26 +44,34 @@ These issues are hardware limitations and not bugs in the code. For the best exp
 ## Installation
 
 1. Clone the repository:
-```
-git clone https://github.com/DJDSTr01/Yolov5-ObjectDetector.git
-cd Yolov5-ObjectDetector
-```
+   ```sh
+   git clone https://github.com/DJDSTr01/Yolov5-ObjectDetector.git
+   cd Yolov5-ObjectDetector
+   ```
 
 2. Create a virtual environment (recommended):
-```
-python -m venv venv
-venv\Scripts\activate
-```
+   ```sh
+   python -m venv venv
+   venv\Scripts\activate
+   ```
 
 3. Install dependencies:
-```
-pip install -r requirements.txt
-```
+   ```sh
+   pip install -r requirements.txt
+   ```
 
 4. Install PyTorch with CUDA support (if not automatically installed):
-```
-pip install torch torchvision --extra-index-url https://download.pytorch.org/whl/cu117
-```
+   ```sh
+   pip install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu121
+   ```
+
+### **Alternative Installation Method**  
+Instead of manually installing the dependencies, you can run:  
+   ```sh
+   installer.bat
+   ```  
+This will handle everything automatically.
+
 
 ## Usage
 

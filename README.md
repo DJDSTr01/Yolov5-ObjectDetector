@@ -2,7 +2,7 @@
 
 ![GitHub stars](https://img.shields.io/github/stars/DJDSTr01/Yolov5-ObjectDetector?style=social)
 ![License](https://img.shields.io/badge/license-MIT-blue)
-![Python](https://img.shields.io/badge/python-3.7%2B-blue)
+![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 
 A high-performance, real-time object detection system that works directly on your screen. This application uses YOLOv5 to detect objects displayed on your screen and creates smooth, professional overlays to track and label them.
 

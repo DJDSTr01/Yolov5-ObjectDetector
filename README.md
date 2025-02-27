@@ -1,6 +1,6 @@
 # Screen Object Detector
 
-![GitHub stars](https://img.shields.io/github/stars/DJDSTr01/screen-Yolov4-ObjectDetector?style=social)
+![GitHub stars](https://img.shields.io/github/stars/DJDSTr01/Yolov5-ObjectDetector?style=social)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Python](https://img.shields.io/badge/python-3.7%2B-blue)
 

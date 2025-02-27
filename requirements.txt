@@ -1,8 +1,5 @@
---extra-index-url https://download.pytorch.org/whl/cu121
-
 torch>=1.7.0
 torchvision>=0.8.1
-torchaudio
 numpy>=1.18.5
 Pillow>=8.0.0
 mss>=6.1.0
